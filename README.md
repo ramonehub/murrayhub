@@ -11,11 +11,11 @@
 
 <div>
   <h1 align="center">
-    <img width="729" height="83" alt="Image" src="https://github.com/user-attachments/assets/403c5d5f-eff2-402c-823c-bbbeaeb6eb5c" />
+    <img width="729" height="83" alt="Player by" src="https://github.com/user-attachments/assets/403c5d5f-eff2-402c-823c-bbbeaeb6eb5c" />
 
-<img width="337" height="74" alt="Image" src="https://github.com/user-attachments/assets/59c4dc41-25d0-442b-93c8-0d0e2987d017" />
+<img width="337" height="74" alt="Team Lotus" src="https://github.com/user-attachments/assets/59c4dc41-25d0-442b-93c8-0d0e2987d017" />
     <div>
-      <img width="219" height="227" alt="Image" src="https://github.com/user-attachments/assets/f78bc863-49d8-44b1-b15d-0db08c87358f" />
+      <img width="370" height="350" alt="Lotus Image" src="https://github.com/user-attachments/assets/045ad383-ee91-43b4-b791-bb0559259816" />
     </div>
   </h1>
   
