@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4CBB17&height=130&section=header"/>
 
-<img width="1692" height="66" alt="Image" src="https://github.com/user-attachments/assets/66c32e00-7522-408a-bb77-99cc64baf048" />
+<img width="816" height="96" alt="Image" src="https://github.com/user-attachments/assets/7c7e4b59-afde-447c-8884-63bf2fa01d2f" />
 
 
 
@@ -11,8 +11,9 @@
 
 <div>
   <h1 align="center">
-    <img width="1060" height="48" alt="Image" src="https://github.com/user-attachments/assets/f26b64b3-516b-4700-8105-8651a031c24f" />
-    <img width="441" height="75" alt="Image" src="https://github.com/user-attachments/assets/1e72ee5c-6c9b-4ae8-89b2-03f6b8578226" />
+    <img width="729" height="83" alt="Image" src="https://github.com/user-attachments/assets/403c5d5f-eff2-402c-823c-bbbeaeb6eb5c" />
+
+<img width="337" height="74" alt="Image" src="https://github.com/user-attachments/assets/59c4dc41-25d0-442b-93c8-0d0e2987d017" />
     <div>
       <img width="219" height="227" alt="Image" src="https://github.com/user-attachments/assets/f78bc863-49d8-44b1-b15d-0db08c87358f" />
     </div>
